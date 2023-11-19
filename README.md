@@ -23,5 +23,6 @@ En este ejercicio, aprenderás a dockerizar una aplicación Node.js con Express,
 - Escribe un `Dockerfile` que parta de una imagen base de Node.js, instale las dependencias y ejecute tu aplicación.
 - Construye la imagen Docker con `docker build -t tu-nombre-de-imagen .`
 - Ejecuta un contenedor basado en tu imagen con `docker run -p 3000:3000 tu-nombre-de-imagen`
+- Crea un servidor express con una ruta GET que envie como respuesta 'Hello from docker!'
 - Verifica que puedas acceder a las rutas de tu aplicación con postman.
 - (Opcional) Configura `docker-compose.yml` para ejecutar tu aplicación.
