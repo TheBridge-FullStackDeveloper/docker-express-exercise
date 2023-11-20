@@ -1,5 +1,5 @@
 # Usar una imagen base de Node.js. Puedes elegir la versión que prefieras.
-FROM node:v21.1.0-alpine
+FROM node:20.9-alpine
 
 # Establecer el directorio de trabajo dentro del contenedor
 WORKDIR /usr/src/app
