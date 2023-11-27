@@ -1,0 +1,15 @@
+{
+  "name": "name",
+  "description": "description",
+  "authors": "author",
+  "version": "1.0.0",
+  "main": "pathToMain",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha",
+    "build": "webpack --config webpack.config.js"
+  }
+}
