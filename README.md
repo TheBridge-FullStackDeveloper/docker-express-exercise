@@ -14,6 +14,7 @@ En este ejercicio, aprenderás a dockerizar una aplicación Node.js con Express,
 4. 📦 Construye tu imagen Docker utilizando el comando `docker build`.
 5. 🏃‍♂️ Ejecuta tu contenedor Docker basado en la imagen construida con `docker run`.
 6. 🌐 Asegúrate de que tu aplicación esté accesible desde un navegador probando la conexión al puerto expuesto.
+
 7. 🔁 Utiliza `docker-compose` si necesitas configurar servicios adicionales como bases de datos.
 8. 📤 Haz commit de tus cambios en el `Dockerfile` y cualquier archivo de configuración asociado, y súbelos a tu fork.
 9. 📧 Abre un Pull Request para que tu código sea revisado.
