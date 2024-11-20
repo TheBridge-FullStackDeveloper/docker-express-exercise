@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "scripts": {
+    "test": "mocha test/*.js",
+    "start": "node app.js"
+  },
+  "name": "docker-express-exercise",
+  "description": "![Logotipo de The Bridge](https://user-images.githubusercontent.com/27650532/77754601-e8365180-702b-11ea-8bed-5bc14a43f869.png \"Logotipo de The Bridge\")",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
