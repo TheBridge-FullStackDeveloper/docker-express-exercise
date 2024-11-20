@@ -17,6 +17,6 @@ COPY . .
 EXPOSE 3000
 
 # comand tu run the app
-CMD [ "node", "server.js" ]
+CMD [ "node", "app.js" ]
 
 
